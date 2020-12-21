@@ -1,10 +1,10 @@
 package it.solvingteam.springmvcrestdemo.dto;
 
-public class ErrorDto {
+public class ErrorDTO {
 
     private String message;
 
-    public ErrorDto(String message) {
+    public ErrorDTO(String message) {
         this.message = message;
     }
 
